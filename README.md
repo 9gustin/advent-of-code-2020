@@ -3,3 +3,6 @@
 https://adventofcode.com/
 
 Day 1: Completed
+
+#### To practice
+- Algorithms
